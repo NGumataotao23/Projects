@@ -1,0 +1,5 @@
+Watermelon 100 5 25
+Popcorn 50 3 10
+Apple 300 4 7
+Bannana 200 5 10
+Raisin 100 3 13

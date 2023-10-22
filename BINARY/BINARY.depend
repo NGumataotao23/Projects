@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682407009 source:c:\users\magic\onedrive\desktop\code\binary\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
