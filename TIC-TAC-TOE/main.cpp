@@ -1,4 +1,4 @@
-// The program written allows the user to tally the favorite beverages of the selected amount of people
+// The program written allows the user to play TicTacToe
 // Writer: Nathan Gumataotao
 // Date: 2/21/2023
 // Completed
