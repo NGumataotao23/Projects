@@ -1,6 +1,8 @@
 Final for Program Design and Data Structures
 Uses a mixture of a linked list and SDL2 to create a mp3 player that can 
-add and delete songs
+add and delete songs, MP3's placed in the music folder can be played 
+To add songs you must include ".mp3" at the end
+to remove songs from the queue you must add "music/" before the songs name plus the ".mp3"(to be fixed in future)
 SDL2 and SDL2_mixer are NOT MINE:
 https://github.com/libsdl-org
 
