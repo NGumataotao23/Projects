@@ -1,0 +1,6 @@
+Final for Program Design and Data Structures
+Uses a mixture of a linked list and SDL2 to create a mp3 player that can 
+add and delete songs
+SDL2 and SDL2_mixer are NOT MINE:
+https://github.com/libsdl-org
+
