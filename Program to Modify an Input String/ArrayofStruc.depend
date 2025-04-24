@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1681801627 source:c:\users\magic\onedrive\desktop\code\arrayofstruc\main.cpp
-	<iostream>
-	<fstream>
-	<cstring>
-
