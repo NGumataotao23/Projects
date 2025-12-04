@@ -1,0 +1,25 @@
+Script started on 2025-05-08 14:06:22-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11[?2004h[ngumataotao@ecs-pa-coding3 lab11]$ cd src
+[?2004l]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ make
+[?2004lgcc -w -c lab11Pipe.c
+gcc -w -o lab11Pipe lab11Pipe.o
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ make clean
+[?2004lrm -f lab11 lab11Pipe *.o *.a
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ make
+[?2004lgcc -w -c lab11.c
+gcc -w -o lab11 lab11.o
+gcc -w -c lab11Pipe.c
+gcc -w -o lab11Pipe lab11Pipe.o
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ lab11[K[K[K[K[K./lab11.c yoyo[K[K[K[K[K[K[K yoyo[K[K[K[KYOYO
+[?2004lIn Thread with arg <YOYO>
+Thread Returned: <4>
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ ./lab11 YOYOP YOYOi YOYOp YOYOe YOYO
+[?2004lParent[7313]: running...
+Parent[7313]: waiting...
+Child[7314]: running...
+Child: Received Messege:YOYO
+Parent[7313]: done.
+]0;ngumataotao@ecs-pa-coding3:~/csc60/lab11/src[?2004h[ngumataotao@ecs-pa-coding3 src]$ exit
+[?2004lexit
+
+Script done on 2025-05-08 14:07:05-07:00 [COMMAND_EXIT_CODE="0"]
